@@ -1,0 +1,22 @@
+body{
+    margin: 0px;
+    background-color: aqua;
+}
+
+.tile{
+    border-style: solid;
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+}  
+
+.end{
+    display: block;
+}
+
+.left-far{
+    margin-left: 100px;
+}
+.left-mid{
+    margin-left: 50px;
+}
